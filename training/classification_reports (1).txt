@@ -1,0 +1,100 @@
+Classification Report for Logistic Regression:
+              precision    recall  f1-score   support
+
+           0       0.83      0.86      0.84       105
+           1       0.79      0.74      0.76        74
+
+    accuracy                           0.81       179
+   macro avg       0.81      0.80      0.80       179
+weighted avg       0.81      0.81      0.81       179
+--------------------------------------------------------------------------------
+Classification Report for Decision Tree:
+              precision    recall  f1-score   support
+
+           0       0.82      0.80      0.81       105
+           1       0.73      0.76      0.74        74
+
+    accuracy                           0.78       179
+   macro avg       0.78      0.78      0.78       179
+weighted avg       0.78      0.78      0.78       179
+--------------------------------------------------------------------------------
+Classification Report for Random Forest:
+              precision    recall  f1-score   support
+
+           0       0.81      0.85      0.83       105
+           1       0.77      0.72      0.74        74
+
+    accuracy                           0.79       179
+   macro avg       0.79      0.78      0.78       179
+weighted avg       0.79      0.79      0.79       179
+--------------------------------------------------------------------------------
+Classification Report for SVM:
+              precision    recall  f1-score   support
+
+           0       0.82      0.88      0.85       105
+           1       0.81      0.73      0.77        74
+
+    accuracy                           0.82       179
+   macro avg       0.81      0.80      0.81       179
+weighted avg       0.82      0.82      0.81       179
+--------------------------------------------------------------------------------
+Classification Report for KNN:
+              precision    recall  f1-score   support
+
+           0       0.83      0.87      0.85       105
+           1       0.80      0.74      0.77        74
+
+    accuracy                           0.82       179
+   macro avg       0.81      0.80      0.81       179
+weighted avg       0.81      0.82      0.81       179
+--------------------------------------------------------------------------------
+Classification Report for Naive Bayes:
+              precision    recall  f1-score   support
+
+           0       0.84      0.77      0.80       105
+           1       0.71      0.78      0.74        74
+
+    accuracy                           0.78       179
+   macro avg       0.77      0.78      0.77       179
+weighted avg       0.78      0.78      0.78       179
+--------------------------------------------------------------------------------
+Classification Report for LightGBM:
+              precision    recall  f1-score   support
+
+           0       0.85      0.84      0.85       105
+           1       0.78      0.80      0.79        74
+
+    accuracy                           0.82       179
+   macro avg       0.82      0.82      0.82       179
+weighted avg       0.82      0.82      0.82       179
+--------------------------------------------------------------------------------
+Classification Report for XGBoost:
+              precision    recall  f1-score   support
+
+           0       0.83      0.86      0.84       105
+           1       0.79      0.74      0.76        74
+
+    accuracy                           0.81       179
+   macro avg       0.81      0.80      0.80       179
+weighted avg       0.81      0.81      0.81       179
+--------------------------------------------------------------------------------
+Classification Report for AdaBoost:
+              precision    recall  f1-score   support
+
+           0       0.81      0.87      0.83       105
+           1       0.79      0.70      0.74        74
+
+    accuracy                           0.80       179
+   macro avg       0.80      0.78      0.79       179
+weighted avg       0.80      0.80      0.80       179
+--------------------------------------------------------------------------------
+Classification Report for Neural Network:
+              precision    recall  f1-score   support
+
+           0       0.81      0.87      0.83       105
+           1       0.79      0.70      0.74        74
+
+    accuracy                           0.80       179
+   macro avg       0.80      0.78      0.79       179
+weighted avg       0.80      0.80      0.80       179
+--------------------------------------------------------------------------------
